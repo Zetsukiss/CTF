@@ -1,0 +1,2 @@
+FLAG (raw)   = b'Hero{y0u_4nd_5l33p_0r_y0u_4nd_c1ff33_3qu4l5_fl4g_4nd_p01n75}'
+FLAG (ascii) = Hero{y0u_4nd_5l33p_0r_y0u_4nd_c1ff33_3qu4l5_fl4g_4nd_p01n75}
